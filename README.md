@@ -20,7 +20,7 @@ This web application allows users to search for movies using the OMDB API and sa
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/movie-database-app.git`
+1. Clone the repository: `git clone https://github.com/bhavy2908/omdb-octaloop`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 4. Start the client: `npm run client`
